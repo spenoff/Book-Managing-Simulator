@@ -1,2 +1,2 @@
 # Book Managing Simulator
-Run ripoffRental.java and follow the instructions.
+Run RipoffRental.java and follow the instructions.
